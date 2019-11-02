@@ -1,2 +1,3 @@
 *.wav
-/input
+input
+.ipynb_checkpoints
